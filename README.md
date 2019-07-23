@@ -1,7 +1,7 @@
 # Julio 2019 - Curso JEE
 Este curso tiene como objetivo, hacer una induccion a la codificación en lenguaje java, con un enfoque practico hacia el desarrollo sobre plataformas web. El curso comienza con un repaso de los conceptos generales del lenguaje, modelado de soluciones orientadas a objeto, uso de repositorios de codigo fuente, creacion de librerias y finalmente despliegue de solucion web en servidor cloud.
 
-**El problema**
+# El problema
 Un pokémon (pkmn) tiene un nombre, energía, un tipo y hasta 4 habilidades.
 
 Un tipo de pkmn puede ser de tipo hoja, agua o fuego. Donde agua es débil contra hoja, hoja es débil contra fuego y fuego es débil contra agua. Cada tipo de pkmn tiene un factor de daño que varia según el pkmn.
@@ -14,6 +14,6 @@ Un pkmn puede atacar, donde el ataque varia su daño según el tipo del pkmn ene
 
 Para crear un pkmn existirá una fabrica de pokémon donde puede crear un caterpy, un squartle y un charmander.
 
-**Solucion propuesta**
+# Solucion propuesta
 
 ![alt text](https://raw.githubusercontent.com/lbgutierrez/curso-jee-julio/master/documentacion/ejercicios-resueltos/sesion-1/DC_Pokemon.png)
