@@ -19,18 +19,18 @@ Este curso tiene como objetivo, hacer una induccion a la codificación en lengua
 
 # Asistentes
 
-[Grupo A](https://github.com/benjaranedad/Proyecto-Pokemon)
+**[Grupo A](https://github.com/benjaranedad/Proyecto-Pokemon)**
   - [Alan Caro](https://github.com/Alancaro2)
   - [Benjamin Araneda](https://github.com/benjaranedad)
   - Luis Reyes
   - [Miguel Valdebenito](https://github.com/caiido)
 
-[Grupo B](https://github.com/favc5/curso-jee-sesion2)
+**[Grupo B](https://github.com/favc5/curso-jee-sesion2)**
   - Cristian Nuñez
   - [Emanuel Córdova](https://github.com/EmanuelCordova)
   - [Fabian Valdés](https://github.com/favc5)
 
-[Grupo C](https://github.com/BastianHor/ProyectoPokemon)
+**[Grupo C](https://github.com/BastianHor/ProyectoPokemon)**
   - [Bastian Lagos](https://github.com/BastianHor)
   - David Rozas
   - Juan Cayupul
