@@ -1,12 +1,21 @@
 # Julio 2019 - Curso JEE
 Este curso tiene como objetivo, hacer una induccion a la codificación en lenguaje java, con un enfoque practico hacia el desarrollo sobre plataformas web. El curso comienza con un repaso de los conceptos generales del lenguaje, modelado de soluciones orientadas a objeto, uso de repositorios de codigo fuente, creacion de librerias y finalmente despliegue de solucion web en servidor cloud.
 
-[Sesión 1](https://github.com/lbgutierrez/curso-jee-julio/blob/master/documentacion/presentaciones/Capacitaci%C3%B3n%20JEE%20-%20Sesi%C3%B3n%201.pptx?raw=true)
-- Introducción al curso
-- Acerca de java
-- Herramientas de desarrollo
-- Ambientar entorno de trabajo
-- Como usar git
+[Sesión 1](https://github.com/lbgutierrez/curso-jee-julio/blob/master/documentacion/presentaciones/Capacitaci%C3%B3n%20JEE%20-%20Sesi%C3%B3n%201.pptx?raw=true) - 22/07/2019
+  - Introducción al curso
+  - Acerca de java
+  - Herramientas de desarrollo
+  - Ambientar entorno de trabajo
+  - Como usar git
+
+Sesión 2 - 23/07/2019
+  - Conceptos Generales
+  - Clases, herencia, interfaces
+  - Modificadores de acceso
+  - Variables primitivas y variables por referencia
+  - Arreglos
+  - Operadores
+  - Control de flujo
 
 
 # El problema
