@@ -8,7 +8,7 @@ Este curso tiene como objetivo, hacer una induccion a la codificación en lengua
   - Ambientar entorno de trabajo
   - Como usar git
 
-Sesión 2 - 23/07/2019
+[Sesión 2](https://github.com/lbgutierrez/curso-jee-julio/blob/master/documentacion/presentaciones/Capacitaci%C3%B3n%20JEE%20-%20Sesi%C3%B3n%202.pptx?raw=true) - 23/07/2019
   - Conceptos Generales
   - Clases, herencia, interfaces
   - Modificadores de acceso
