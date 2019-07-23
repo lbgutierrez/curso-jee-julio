@@ -19,21 +19,21 @@ Este curso tiene como objetivo, hacer una induccion a la codificación en lengua
 
 # Asistentes
 
-  [Grupo A](https://github.com/benjaranedad/Proyecto-Pokemon)
-    - [Alan Caro](https://github.com/Alancaro2)
-    - [Benjamin Araneda](https://github.com/benjaranedad)
-    - Luis Reyes
-    - [Miguel Valdebenito](https://github.com/caiido)
+[Grupo A](https://github.com/benjaranedad/Proyecto-Pokemon)
+  - [Alan Caro](https://github.com/Alancaro2)
+  - [Benjamin Araneda](https://github.com/benjaranedad)
+  - Luis Reyes
+  - [Miguel Valdebenito](https://github.com/caiido)
 
-  [Grupo B](https://github.com/favc5/curso-jee-sesion2)
-    - Cristian Nuñez
-    - [Emanuel Córdova](https://github.com/EmanuelCordova)
-    - [Fabian Valdés](https://github.com/favc5)
+[Grupo B](https://github.com/favc5/curso-jee-sesion2)
+  - Cristian Nuñez
+  - [Emanuel Córdova](https://github.com/EmanuelCordova)
+  - [Fabian Valdés](https://github.com/favc5)
 
-  [Grupo C](https://github.com/BastianHor/ProyectoPokemon)
-    - [Bastian Lagos](https://github.com/BastianHor)
-    - David Rozas
-    - Juan Cayupul
+[Grupo C](https://github.com/BastianHor/ProyectoPokemon)
+  - [Bastian Lagos](https://github.com/BastianHor)
+  - David Rozas
+  - Juan Cayupul
 
 # El problema
 Un pokémon (pkmn) tiene un nombre, energía, un tipo y hasta 4 habilidades.
