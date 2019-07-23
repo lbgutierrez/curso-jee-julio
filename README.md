@@ -1,6 +1,14 @@
 # Julio 2019 - Curso JEE
 Este curso tiene como objetivo, hacer una induccion a la codificación en lenguaje java, con un enfoque practico hacia el desarrollo sobre plataformas web. El curso comienza con un repaso de los conceptos generales del lenguaje, modelado de soluciones orientadas a objeto, uso de repositorios de codigo fuente, creacion de librerias y finalmente despliegue de solucion web en servidor cloud.
 
+[Sesión 1](https://github.com/lbgutierrez/curso-jee-julio/blob/master/documentacion/presentaciones/Capacitaci%C3%B3n%20JEE%20-%20Sesi%C3%B3n%201.pptx?raw=true)
+- Introducción al curso
+- Acerca de java
+- Herramientas de desarrollo
+- Ambientar entorno de trabajo
+- Como usar git
+
+
 # El problema
 Un pokémon (pkmn) tiene un nombre, energía, un tipo y hasta 4 habilidades.
 
@@ -14,6 +22,6 @@ Un pkmn puede atacar, donde el ataque varia su daño según el tipo del pkmn ene
 
 Para crear un pkmn existirá una fabrica de pokémon donde puede crear un caterpy, un squartle y un charmander.
 
-# Solucion propuesta
+# Solución propuesta
 
 ![alt text](https://raw.githubusercontent.com/lbgutierrez/curso-jee-julio/master/documentacion/ejercicios-resueltos/sesion-1/DC_Pokemon.png)
