@@ -14,3 +14,5 @@ El corazón late cada 1 segundo mientras que la respiración es cada 4 segundos.
   3. Cada organo funciona en una frecuencia distinta, por lo tanto es la clase persona la encargada en estipular la frecuencia (en segundos) en que opera cada uno. A su vez, si la persona muere, debe detener el funcionamiento de los organos, por medio del estado de cada uno.
   
   4. La clase encargada de inicializar a la persona es StartPersona, por medio del metodo principal (main).
+
+![Diagrama de secuencia](https://github.com/lbgutierrez/curso-jee-julio/blob/master/documentacion/ejercicios-resueltos/sesion-3/DS-Persona-Thread.png?raw=true)
