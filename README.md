@@ -17,7 +17,7 @@ Este curso tiene como objetivo, hacer una induccion a la codificación en lengua
   - Operadores
   - Control de flujo
 
-[Sesión 3]()
+[Sesión 3](https://github.com/lbgutierrez/curso-jee-julio/blob/master/documentacion/presentaciones/Capacitaci%C3%B3n%20JEE%20-%20Sesi%C3%B3n%203.pptx?raw=true)
   - Strings
   - Generics y Colecciones
   - Clases inner
