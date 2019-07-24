@@ -30,7 +30,7 @@ Este curso tiene como objetivo, hacer una induccion a la codificación en lengua
 **[Grupo A](https://github.com/benjaranedad/Proyecto-Pokemon)**
   - [Alan Caro](https://github.com/Alancaro2)
   - [Benjamin Araneda](https://github.com/benjaranedad)
-  - Luis Reyes
+  - [Luis Reyes](https://github.com/luchi3)
   - [Miguel Valdebenito](https://github.com/caiido)
 
 **[Grupo B](https://github.com/favc5/curso-jee-sesion2)**
