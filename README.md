@@ -17,6 +17,14 @@ Este curso tiene como objetivo, hacer una induccion a la codificación en lengua
   - Operadores
   - Control de flujo
 
+[Sesión 3]()
+  - Strings
+  - Generics y Colecciones
+  - Clases inner
+  - Annotations
+  - Threads
+
+
 # Asistentes
 
 **[Grupo A](https://github.com/benjaranedad/Proyecto-Pokemon)**
