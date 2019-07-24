@@ -16,3 +16,10 @@ El corazón late cada 1 segundo mientras que la respiración es cada 4 segundos.
   4. La clase encargada de inicializar a la persona es StartPersona, por medio del metodo principal (main).
 
 ![Diagrama de secuencia](https://github.com/lbgutierrez/curso-jee-julio/blob/master/documentacion/ejercicios-resueltos/sesion-3/DS-Persona-Thread.png?raw=true)
+
+  1. La clase que inicia el programa será StartPersona.java, esta creará una instancia de la clase Persona y llamará a su metodo nacer()
+  
+  2. Al instante que se instancia la clase persona, se crea la instancia de Corazon y Pulmon, luego cuando se le indique al objeto persona que debe nacer, este iniciará los procesos de los organos Corazon y Pulmon de forma simultanea por medio de hilos.
+  
+  3. Cuando la persona muera, se debe llamar al metodo morir() y este actualizará el estado del organo, provocando que se finalice el hilo.
+  
