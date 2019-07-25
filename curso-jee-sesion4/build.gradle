@@ -18,6 +18,9 @@ dependencies {
 
     implementation 'com.google.guava:guava:27.0.1-jre'
 
+	implementation 'org.springframework:spring-webmvc:4.1.6.RELEASE'
+	implementation 'org.thymeleaf:thymeleaf-spring4:3.0.11.RELEASE'
+
     testImplementation 'junit:junit:4.12'
 }
 
