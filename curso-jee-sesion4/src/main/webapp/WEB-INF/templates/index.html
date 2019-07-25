@@ -1,9 +1,25 @@
 <!DOCTYPE html>
-<html>
+<html xmlns:th="http://www.thymeleaf.org">
 <head>
 	<title>Residencia - Inicio</title>
 </head>
 <body>
-	Hello World!
+	<h2>Hello World!</h2>
+	<form name="f" th:action="@{/}" th:object="${residenciaForm}" method="post">  
+		<input type="text" th:field="*{rut}" />
+		<button type="submit" class="btn">Consultar</button>
+	</form>
+	<table>
+		<tr>
+			<td>Rut</td>
+			<td>Nombre</td>
+			<td>Residencia</td>
+		</tr>
+		<tr th:object="${resultado}">
+			<td th:text="*{rut}"></td>
+			<td th:text="*{nombre}"></td>
+			<td th:text="*{isResidente}"></td>
+		</tr>
+	</table>
 </body>
 </html>
