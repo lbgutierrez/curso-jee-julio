@@ -18,9 +18,19 @@ dependencies {
 
     implementation 'com.google.guava:guava:27.0.1-jre'
 
-	implementation 'org.springframework:spring-webmvc:4.1.6.RELEASE'
+	implementation 'javax.servlet:javax.servlet-api:3.1.0'
+	
+	//Spring MVC
+	implementation 'org.springframework.boot:spring-boot-starter-web:1.1.5.RELEASE'
+	
+	//Presentacion
 	implementation 'org.thymeleaf:thymeleaf-spring4:3.0.0.ALPHA03'
-
+	
+	//Persistencia
+	implementation 'org.hibernate:hibernate-entitymanager:4.3.8.Final'
+	implementation 'org.springframework:spring-orm:4.1.4.RELEASE'
+	implementation 'postgresql:postgresql:9.1-901-1.jdbc4'
+    
     testImplementation 'junit:junit:4.12'
 }
 
