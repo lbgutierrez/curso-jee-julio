@@ -24,7 +24,7 @@ Este curso tiene como objetivo, hacer una induccion a la codificación en lengua
   - Annotations
   - Threads
 
-[Sesion 4](https://github.com/lbgutierrez/curso-jee-julio/blob/master/documentacion/presentaciones/Capacitaci%C3%B3n%20JEE%20-%20Sesi%C3%B3n%204.pptx) - 25/07/2019
+[Sesión 4](https://github.com/lbgutierrez/curso-jee-julio/blob/master/documentacion/presentaciones/Capacitaci%C3%B3n%20JEE%20-%20Sesi%C3%B3n%204.pptx) - 25/07/2019
   - Webservices y Microservicios
   - Desarrollo web con java
   - Servidores de aplicaciones
