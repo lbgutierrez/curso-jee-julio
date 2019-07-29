@@ -17,13 +17,18 @@ Este curso tiene como objetivo, hacer una induccion a la codificación en lengua
   - Operadores
   - Control de flujo
 
-[Sesión 3](https://github.com/lbgutierrez/curso-jee-julio/blob/master/documentacion/presentaciones/Capacitaci%C3%B3n%20JEE%20-%20Sesi%C3%B3n%203.pptx?raw=true)
+[Sesión 3](https://github.com/lbgutierrez/curso-jee-julio/blob/master/documentacion/presentaciones/Capacitaci%C3%B3n%20JEE%20-%20Sesi%C3%B3n%203.pptx?raw=true) - 24/07/2019
   - Strings
   - Generics y Colecciones
   - Clases inner
   - Annotations
   - Threads
 
+[Sesion 4](https://github.com/lbgutierrez/curso-jee-julio/blob/master/documentacion/presentaciones/Capacitaci%C3%B3n%20JEE%20-%20Sesi%C3%B3n%204.pptx) - 25/07/2019
+  - Webservices y Microservicios
+  - Desarrollo web con java
+  - Servidores de aplicaciones
+  - Frameworks y librerías
 
 # Asistentes
 
